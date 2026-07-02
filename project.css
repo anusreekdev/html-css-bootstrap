@@ -1,0 +1,9 @@
+.edu{
+    color: darkblue;
+}
+.nav-item a{
+  color: rgb(192, 200, 204);
+}
+.nav-item a:hover{
+    color: rgb(24, 17, 226);
+}
